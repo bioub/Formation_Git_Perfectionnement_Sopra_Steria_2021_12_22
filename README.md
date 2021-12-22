@@ -12,3 +12,5 @@ Formation Git Perfectionnement Sopra Steria du 22/12/2021
 
 * Centralized
 * Git flow
+* github flow
+* gitlab flow
