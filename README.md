@@ -7,3 +7,8 @@ Formation Git Perfectionnement Sopra Steria du 22/12/2021
 * git init
 * git add 
 * git commit
+
+## Workflow
+
+* Centralized
+* Git flow
